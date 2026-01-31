@@ -41,13 +41,13 @@ ping command is available on Windows as well as on Linux OS. Following is the ex
 
 ## Finding Hosting Company
 get further detail by using ip2location.com website.
-##output
-<img width="1900" height="1038" alt="Screenshot 2026-01-31 131111" src="https://github.com/user-attachments/assets/4d63f1a9-9897-4eee-9d01-bafc251de304" />
-
- 
-## ip2location
 <img width="1918" height="1037" alt="Screenshot 2026-01-30 094157" src="https://github.com/user-attachments/assets/83f66d46-bfd9-45a5-9caa-6fcb1df08d85" />
 
+
+## History of the website:
+## output
+https://web.archive.org/
+<img width="1900" height="1038" alt="Screenshot 2026-01-31 131111" src="https://github.com/user-attachments/assets/8afc1819-c5e8-4fa5-affa-ebe7555b7b20" />
 
 
 
